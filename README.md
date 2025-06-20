@@ -28,6 +28,14 @@ This repo teaches you how to **connect a frontend chat app to a webhook** in n8n
 
 ---
 
+## 💻 Run Locally
+
+[![Fork it and learn](https://img.shields.io/badge/Fork%20and%20Try%20it%20🚀-blue?style=for-the-badge)](https://github.com/Vansh-Tyagi-git/n8n-starter-chatbot/fork)
+
+> 🛠️ See the browser console — you'll find how data looks at the backend via raw JSON.
+
+---
+
 ## 🔧 Prerequisites
 
 - Basic knowledge of HTML and JavaScript
@@ -62,8 +70,4 @@ We clean and display the bot's reply using:
 - `.replace()` to remove `<think>` tags and markdown
 - Basic HTML escaping for security
 
----
 
-## 💻 Run Locally
-
-see the console of the page there you will find how data is actually looking at backend
